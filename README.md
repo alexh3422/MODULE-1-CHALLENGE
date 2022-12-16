@@ -7,3 +7,4 @@ To use this webpage you can scroll through and read the information just as any 
 
 https://alexh3422.github.io/MODULE-1-CHALLENGE/
 
+![alexh3422 github io_MODULE-1-CHALLENGE_ (1)](https://user-images.githubusercontent.com/115325648/208036390-744ff135-6333-4c90-8634-397394d241eb.png)
