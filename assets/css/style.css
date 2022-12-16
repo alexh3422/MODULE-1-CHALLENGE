@@ -148,7 +148,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 } */
-#content-css {
+.content-css {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -184,7 +184,7 @@ p {
 
 
 
-#content-css img {
+.content-css img {
     max-height: 200px;
 }
 
@@ -200,7 +200,7 @@ p {
     max-height: 200px;
 } */
 
-#content-css h2 {
+.content-css h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
