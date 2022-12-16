@@ -148,6 +148,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 } */
+/* removed the 3 individual classes below and consolidated to one */
 .content-css {
     margin-bottom: 20px;
     padding: 50px;
@@ -182,6 +183,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb; */
 
+/* removed the 3 individual classes below and consolidated to one */
 
 
 .content-css img {
@@ -199,6 +201,8 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 } */
+/* removed the 3 individual classes below and consolidated to one */
+
 
 .content-css h2 {
     margin-bottom: 20px;
